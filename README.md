@@ -1,6 +1,6 @@
 # Lyft-vs-Uber-Pricing-analysis
 
-**Uber vs Lyft Cost Analysis
+**Uber vs Lyft Cost Analysis : dataset taken from https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
 
 Objective: To compare the fare between Lyft and Uber
 
